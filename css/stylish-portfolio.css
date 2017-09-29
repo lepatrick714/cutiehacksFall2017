@@ -30,6 +30,9 @@ body {
 
 
 /* Custom Button Styles */
+.bg-primary {
+  background-color: #165270 !important;
+}
 
 .btn-dark {
   color: #fff;
