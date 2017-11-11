@@ -21,6 +21,16 @@ body {
   vertical-align: middle;
 }
 
+.container-fluid {
+    padding: 40px 40px 40px 40px;
+    max-width: 960px;
+}
+
+.container-fluid h6 {
+    font-size: 1.5em;
+    max-width: 960px;
+}
+
 .text-vertical-center h1 {
   font-size: 4.5em;
   font-weight: 700;
@@ -193,7 +203,7 @@ hr.small {
 }
 
 .align-center {
-    text-align: center;
+  text-align: center;
 }
 
 
@@ -407,4 +417,8 @@ footer {
   bottom: 5px;
   display: none;
   padding: 15px 20px;
+}
+
+.container-fluid {
+    padding: 40px 40px 40px 40px;
 }
